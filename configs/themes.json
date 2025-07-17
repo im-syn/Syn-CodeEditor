@@ -1,0 +1,82 @@
+[
+  {
+    "id": "dark_default",
+    "name": "Dark Default",
+    "styleType": "dark",
+    "colors": {
+      "background": "#181c20",
+      "header": "#23272e",
+      "text": "#e0e0e0",
+      "accent": "#82aaff",
+      "panel": "#20242a",
+      "selected": "#2d313a",
+      "border": "#23272e",
+      "error": "#ff5c5c"
+    },
+    "ui": {
+      "tab_bg": "#23272e",
+      "tab_text": "#e0e0e0",
+      "tab_selected_bg": "#181c20",
+      "tab_selected_text": "#fff",
+      "tab_hover_bg": "#2d313a",
+      "tab_border": "#23272e",
+      "tab_close_icon": "#ff5c5c",
+      "sidebar_bg": "#20242a",
+      "sidebar_text": "#e0e0e0",
+      "sidebar_selected_bg": "#2d313a",
+      "toolbar_bg": "#23272e",
+      "toolbar_text": "#e0e0e0",
+      "toolbar_icon": "#82aaff",
+      "line_number_bg": "#20242a",
+      "line_number_text": "#676e95",
+      "current_line_bg": "#23272e",
+      "editor_bg": "#181c20",
+      "editor_text": "#e0e0e0"
+    },
+    "font": {
+      "family": "Fira Mono",
+      "size": 13,
+      "customPath": null
+    }
+  },
+  {
+    "id": "light_default",
+    "name": "Light Default",
+    "styleType": "light",
+    "colors": {
+      "background": "#f7f7f7",
+      "header": "#f0f0f0",
+      "text": "#23272e",
+      "accent": "#3b82f6",
+      "panel": "#ededed",
+      "selected": "#e0e0e0",
+      "border": "#d0d0d0",
+      "error": "#e53935"
+    },
+    "ui": {
+      "tab_bg": "#ededed",
+      "tab_text": "#23272e",
+      "tab_selected_bg": "#ffffff",
+      "tab_selected_text": "#23272e",
+      "tab_hover_bg": "#e0e0e0",
+      "tab_border": "#d0d0d0",
+      "tab_close_icon": "#e53935",
+      "sidebar_bg": "#f0f0f0",
+      "sidebar_text": "#23272e",
+      "sidebar_selected_bg": "#e0e0e0",
+      "toolbar_bg": "#f0f0f0",
+      "toolbar_text": "#23272e",
+      "toolbar_icon": "#3b82f6",
+      "line_number_bg": "#ededed",
+      "line_number_text": "#b0b0b0",
+      "current_line_bg": "#e0e0e0",
+      "editor_bg": "#ffffff",
+      "editor_text": "#23272e"
+    },
+    "font": {
+      "family": "Fira Mono",
+      "size": 13,
+      "customPath": null
+    }
+  }
+]

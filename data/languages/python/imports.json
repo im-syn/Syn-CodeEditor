@@ -1,0 +1,10 @@
+[
+  {
+    "word": "os",
+    "comment": "OS module"
+  },
+  {
+    "word": "sys",
+    "comment": "System module"
+  }
+]

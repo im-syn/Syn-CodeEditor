@@ -1,0 +1,14 @@
+[
+  {
+    "word": "def",
+    "comment": "Function definition"
+  },
+  {
+    "word": "class",
+    "comment": "Class definition"
+  },
+  {
+    "word": "import",
+    "comment": "Import statement"
+  }
+]

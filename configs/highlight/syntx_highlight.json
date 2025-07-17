@@ -1,0 +1,20 @@
+{
+  "python": {
+    "keyword": "#82aaff",
+    "string": "#c3e88d",
+    "comment": "#676e95",
+    "function": "#ffcb6b",
+    "variable": "#f78c6c",
+    "number": "#f78c6c",
+    "builtin": "#b2ccd6"
+  },
+  "php": {
+    "keyword": "#ff5370",
+    "string": "#c3e88d",
+    "comment": "#546e7a",
+    "function": "#82aaff",
+    "variable": "#f78c6c",
+    "number": "#f78c6c",
+    "builtin": "#b2ccd6"
+  }
+}

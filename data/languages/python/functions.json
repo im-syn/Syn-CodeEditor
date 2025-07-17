@@ -1,0 +1,10 @@
+[
+  {
+    "word": "print",
+    "comment": "Print to stdout"
+  },
+  {
+    "word": "len",
+    "comment": "Get length"
+  }
+]
