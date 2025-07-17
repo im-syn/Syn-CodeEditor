@@ -244,4 +244,6 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-**Syn-CodeEditor** — A modern, beautiful, and extensible code editor for everyone. 
+## ☕ Like It?
+
+If this helped you, consider giving the repo a 🌟 or forking it to your toolkit.
