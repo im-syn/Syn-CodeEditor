@@ -40,7 +40,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Syn-CodeEditor.git
+   git clone https://github.com/im-syn/Syn-CodeEditor.git
    cd Syn-CodeEditor/codeEdtior
    ```
 
